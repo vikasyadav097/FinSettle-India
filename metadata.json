@@ -1,0 +1,7 @@
+{
+  "name": "FinSettle India",
+  "description": "Professional Loan Settlement & Financial Assistance Company in India helping you settle debt legally.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
